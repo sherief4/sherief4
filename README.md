@@ -10,6 +10,7 @@
 <!-- <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 - Software Engineer
 - Mobile Applications Developer
+- Flutter Developer
 <hr>
 
 <h2> Contact with me on </h2>
